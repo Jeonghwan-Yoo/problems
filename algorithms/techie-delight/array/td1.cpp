@@ -1,7 +1,3 @@
-/*
- * Given an unsorted integer array, find a pair with the given sum in it.
- */
-
 #include <iostream>
 #include <algorithm>
 #include <unordered_set>
